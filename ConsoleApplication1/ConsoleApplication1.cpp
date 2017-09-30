@@ -8,8 +8,14 @@ using namespace std;
 
 int main()
 {
+	int x;
+	cin >> x;
+	cout << x;
 	cout << "Hello World!!!!" << endl;
+	cout << "po educiewr";
+	cin.ignore();
 	getchar();
+
     return 0;
 }
 
