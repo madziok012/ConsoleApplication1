@@ -15,7 +15,6 @@ int main()
 	cout << "po educiewr";
 	cin.ignore();
 	getchar();
-	//qwewqeqweq
 
     return 0;
 }
