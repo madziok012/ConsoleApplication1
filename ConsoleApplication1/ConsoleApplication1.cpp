@@ -15,6 +15,7 @@ int main()
 	cout << "po educiewr";
 	cin.ignore();
 	getchar();
+	bbubiub
 
     return 0;
 }
